@@ -424,7 +424,8 @@ a {
 }
 .banner.oeuvres {
   background-image: url("./assets/portrait-singe5.jpg");
-  background-position: 100px -300px;
+  /* background-position: 100px -300px; */
+  background-position: 0px -300px;
 }
 .banner.bio {
   background-image: url("./assets/paysage-exposition1.jpg");
